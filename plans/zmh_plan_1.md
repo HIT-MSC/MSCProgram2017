@@ -29,7 +29,7 @@
   - [Kotlin](http://kotlinlang.org/)
   - [Coq](https://coq.inria.fr/)
 #### 模块五[周期性任务]
-- [github](https://github.com/scorpio-ghy)更新：一周至少三绿
+- [github](https://github.com/HIT-Z)更新：一周至少三绿
 - [博客](www.scorpio-ghy.cn)更新：一周至少一篇技术文章
 - 论文review：每三月一篇论文的review
 - [Hacker News](https://news.ycombinator.com/)/[techcrunch](https://techcrunch.com/)阅读：一周累计至少三小时
@@ -38,18 +38,18 @@
 - 千行以下经典github项目通透 * 2
 
 ### 成员组成
-- [周默涵](https://github.com/scorpio-ghy)
+- [周默涵](https://github.com/HIT-Z)
 
 ### 效果呈现
 - 周默涵
-  + [github](https://github.com/scorpio-ghy)
+  + [github](https://github.com/HIT-Z)
   + [blog](http://www.scorpio-ghy.cn)
 
 ### 备注
 1. 项目刚刚成立，预计是一个长期项目（现呈现内容或为总内容的1/8-1/9），希望选的人不要放弃
 2. 项目初建，没什么人，本来也就是个学习计划，大家一起来玩啊（添加自身及github地址至成员组成)
 3. 这个项目是从最开始来的，所以没什么前置要求，大家在一起学习就好了，既可以选择整个项目，也可按模块选择，所有模块均可自己定制
-4. 该项目是[周默涵](https://github.com/scorpio-ghy)针对自己创建的学习流程，大家自行调整修改
+4. 该项目是[周默涵](https://github.com/HIT-Z)针对自己创建的学习流程，大家自行调整修改
 5. 仍然希望加入计划的人不要放弃，不要放弃，不要放弃。。。
 6. 若您有意见或建议，请提issuses
 ---
